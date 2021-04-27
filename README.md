@@ -1,2 +1,1 @@
-# TowerSiege
-Enjoy the updated pyramid game.
+# TowerSiege-1
